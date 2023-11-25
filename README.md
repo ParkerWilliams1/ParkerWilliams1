@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Parker Williams
+# Hi, I’m Parker Williams
 I’m currently studying Computer Science & Stats at California Baptist University
 -
 Passionate about Software Engineering, Data Science, & Machine Learning
