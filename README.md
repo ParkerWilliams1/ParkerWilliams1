@@ -1,7 +1,7 @@
 # Hi, I’m Parker Williams
 I’m currently studying Computer Science & Stats at California Baptist University
 -
-Passionate about Software Engineering, Data Science, & Machine Learning
+Here you will find some fun passion projects and coursework! 
 
 <!---
 ParkerWilliams1/ParkerWilliams1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
