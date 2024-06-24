@@ -19,7 +19,7 @@ const aboutMe = {
     },
     learning: 'React.Js',
     socials: {
-        linkedin: 'https://www.linkedin.com/in/parkerwilliams1',
+        linkedin: 'https://www.linkedin.com/in/parkerwilliams15',
         email: 'parkerwilliams1500@gmail.com',
     }
 }
