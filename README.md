@@ -15,7 +15,7 @@ const aboutMe = {
         last: "Williams", 
     },
     experience: {
-        currently: 'Research Intern at California Baptist University',
+        currently: 'Student Research Intern at California Baptist University',
     },
     learning: 'React.Js',
     socials: {
