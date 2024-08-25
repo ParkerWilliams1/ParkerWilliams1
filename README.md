@@ -1,5 +1,5 @@
 # Hi, I’m Parker Williams
-I’m currently studying Computer Science & Stats at California Baptist University
+I’m currently studying Computer Science & Statistics at California Baptist University
 -
 Here you will find some fun passion projects and coursework! 
 
