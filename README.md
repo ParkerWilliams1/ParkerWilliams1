@@ -17,7 +17,7 @@ const aboutMe = {
     experience: {
         currently: 'Student Researcher at California Baptist University',
     },
-    learning: 'Vim & React.js',
+    learning: 'Vim & React',
     socials: {
         linkedin: 'https://www.linkedin.com/in/parkerwilliams15',
         email: 'parkerwilliams1500@gmail.com',
