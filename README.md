@@ -15,7 +15,7 @@ const aboutMe = {
         last: "Williams", 
     },
     experience: {
-        currently: 'Software Engineering Intern at Software Byte Development',
+        currently: 'Undergraduate Student Worker at California Baptist University',
     },
     socials: {
         linkedin: 'https://www.linkedin.com/in/parkerwilliams15',
