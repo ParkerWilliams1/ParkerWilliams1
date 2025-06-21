@@ -13,12 +13,12 @@ const aboutMe = {
         last: "Williams", 
     },
     experience: {
-        prev: Student Research Assistant @ California Baptist University,
-        currently: 'Software Engineering Intern @ Software Byte Dev',
+        prev: "Student Research Assistant @ California Baptist University",
+        currently: "Software Engineering Intern @ Software Byte Dev",
     },
     socials: {
-        linkedin: 'https://www.linkedin.com/in/parkerwilliams15',
-        email: 'parkerwilliams1500@gmail.com',
+        linkedin: "https://www.linkedin.com/in/parkerwilliams15",
+        email: "parkerwilliams1500@gmail.com",
     }
 }
 ```
